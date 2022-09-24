@@ -10,3 +10,5 @@ this game was created with the intention of being an exploration RPG with the de
 Created by:
 @gabrielmch
 @Lukas-octavio
+
+the game is only in brazilian portuguese, will have English in the future.
