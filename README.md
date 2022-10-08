@@ -1,5 +1,5 @@
 # RQA
-this game was created with the intention of being an exploration RPG with the design based on the "candy box". The game has four bosses where your objective is to defeat them all while facing other enemies along the way.
+this game was created with the intention of being an dungeon crawl with the design based on the "candy box". The game has four bosses where your objective is to defeat them all while facing other enemies along the way.
 
 > Controls
 >
